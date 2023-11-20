@@ -16,7 +16,6 @@ Additional documentation about how this group operates:
 - [Maintainers' Guide](MAINTAINERS_GUIDE.md)
 - [Releases](RELEASES.md)
 
-The _optional_ and _base_ layers of all OCI projects are tracked in the [OCI Scope Table](https://www.opencontainers.org/about/oci-scope-table).
 
 ## Distributing OCI Images and other content
 
